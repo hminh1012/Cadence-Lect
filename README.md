@@ -113,9 +113,9 @@ To run the lab databases and exercises included in this repository, access to th
 ## 🏆 Certificates & Exams
 
 This repository includes official course completion certificates and badge exam practice materials:
-* **Cadence Certificate - Analog IC Design Flow v1.0**
-* **Cadence Certificate - Analog IC Design Implementation & Verification**
-* **Cadence Certificate - Digital Design & Verification**
+* **[Cadence Certificate - Analog IC Design Flow v1.0](Cadence%20Analog%20IC%20Design%20Flow%20v1.0%20%28Online%29/2254_4_533543_1785859218_ES%20Online%20Course%20Certificate.pdf)**
+* **[Cadence Certificate - Analog IC Design Implementation & Verification](AnalogICDesignImplementationAndVerification/2315_4_533559_1785030853_ES%20Online%20Course%20Certificate.pdf)**
+* **[Cadence Certificate - Digital Design & Verification](DigitalDesignVerification-Academic-Curriculum/2309_4_533543_1785230556_ES%20Online%20Course%20Certificate.pdf)**
 * **Badge Exam Q&A**: Solved exam questions in `Cadence Analog IC Design Flow v1.0 (Badge Exam).docx`.
 
 ---
